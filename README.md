@@ -1,2 +1,2 @@
-# Mini-tra-o-Portif-lio
+# Mini-traço-Portifólio
 Criação de um mini portifólio.
